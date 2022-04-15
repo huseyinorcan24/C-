@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\ODEV\ODEV\obj\Debug\ODEV.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ODEV\ODEV\obj\Debug\ODEV.Form1.resources
+C:\Users\HP\Desktop\ODEV\ODEV\obj\Debug\ODEV.Properties.Resources.resources
+C:\Users\HP\Desktop\ODEV\ODEV\obj\Debug\ODEV.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ODEV\ODEV\obj\Debug\ODEV.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ODEV\ODEV\bin\Debug\ODEV.exe.config
+C:\Users\HP\Desktop\ODEV\ODEV\bin\Debug\ODEV.exe
+C:\Users\HP\Desktop\ODEV\ODEV\bin\Debug\ODEV.pdb
+C:\Users\HP\Desktop\ODEV\ODEV\obj\Debug\ODEV.exe
+C:\Users\HP\Desktop\ODEV\ODEV\obj\Debug\ODEV.pdb
